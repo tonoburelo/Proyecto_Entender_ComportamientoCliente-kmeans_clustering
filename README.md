@@ -19,5 +19,16 @@ Breve explicación del problema y objetivo
 - Características principales
 
 ## 🚀 Instalación
+Usando Python 3.12.1+
+1. Crear un entorno virtual de Python:
 ```bash
-pip install -r requirements.txt
+python -m venv nombre_entorno_virtual
+```
+2. Activar el entorno virtual de Python:
+```bash
+nombre_entorno_virtual/Scripts/Activate o nombre_entorno_virtual/bin/Activate 
+```
+3. Activar requerimientos:
+```bash
+pip install -r requerimientos.txt
+```
